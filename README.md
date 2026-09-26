@@ -1,6 +1,6 @@
 AVSD — Bot de sécurité et modération pour serveurs Discord
 
-Version : V4.51 · Bilingue 🇫🇷 FR / 🇬🇧 EN · Basé sur discord.py
+Version : V4.62· Bilingue 🇫🇷 FR / 🇬🇧 EN · Basé sur discord.py
 
 AVSD est un bot Discord tout-en-un conçu pour sécuriser, modérer et surveiller un serveur sans avoir à jongler entre dix bots différents. Tout passe par un panel de configuration centralisé accessible via une seule commande, avec des boutons plutôt que des dizaines de commandes à mémoriser.
 
