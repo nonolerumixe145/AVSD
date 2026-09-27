@@ -46,4 +46,13 @@ Prérequis
 Python 3.x
 La bibliothèque discord.py
 Un token de bot Discord
-Permissions recommandées sur le serveur : Administrateur (ou a minima Gérer les salons, Gérer les rôles, Envoyer des messages, Intégrer des liens)
+Permissions recommandées sur le serveur : Administrateur (ou a minima Gérer les salons, Gérer les rôles, Envoyer des messages, Intégrer des liens)  ( #!/bin/bash
+
+# Suppression du fichier AVSD.py du suivi Git
+git rm AVSD.py
+
+# Création du commit de suppression
+git commit -m "Suppression de AVSD.py"
+
+# Envoi du changement sur le dépôt GitHub
+git push )
